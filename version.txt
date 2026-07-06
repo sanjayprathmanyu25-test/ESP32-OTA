@@ -1,4 +1,0 @@
-{
-  "version": "1.0.0",
-  "firmware": "https://raw.githubusercontent.com/sanjayprathmanyu25-test/ESP32-OTA/main/firmware.bin"
-}
